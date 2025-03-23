@@ -1,6 +1,6 @@
 :root{
     --font-color: rgba(1, 6, 46, 0.66);
-    --background-color: #f7f8f8;
+    --background-color: #f8181c;
 }
 body{
     background: var(--background-color);
